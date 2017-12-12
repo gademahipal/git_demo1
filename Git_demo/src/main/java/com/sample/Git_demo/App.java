@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( " changes in master");
+         System.out.println( " changes in branch1");
     }
 }
